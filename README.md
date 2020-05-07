@@ -1,2 +1,2 @@
 # Sokoban
-Implementación como  del rompecabezas Sokoban
+Implementación como juego del rompecabezas Sokoban
