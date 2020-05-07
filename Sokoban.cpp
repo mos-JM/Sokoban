@@ -1,4 +1,7 @@
-﻿
+/**
+* Sokoban C++
+* @autor Agustin Jofre Millet
+*/
 
 #include <iostream>
 #include <string>
