@@ -4,7 +4,7 @@ Implementación como juego del rompecabezas Sokoban
 Sokoban es un clásico rompecabezas inventado en Japón, normalmente implementado como videojuego. 
 
 ![GitHub Logo](/images/juego.png)
-Format: ![Alt Text](url)
+
 
 Junto al código hay un archivo txt de donde se cargan los juegos. También puedes crear tus propias pantallas.
 
